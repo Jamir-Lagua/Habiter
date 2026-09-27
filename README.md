@@ -1,4 +1,4 @@
-# ⏱️ TimeTrack — Habit Tracker with Analytics
+# ⏱️ Habiter — Habit Tracker with Analytics
 
 A modern, full-stack habit tracking and analytics web application designed to help users establish consistency, track daily habits, visualize progress over time, and gain data-driven insights into their personal routines.
 
